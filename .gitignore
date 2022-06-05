@@ -1,6 +1,5 @@
 *.net
 *.cpp
-*.py
 
 !rizwan.py
 
